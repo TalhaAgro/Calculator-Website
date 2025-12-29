@@ -112,7 +112,7 @@ Project Link: [https://github.com/TalhaAgro/Calculator-Website](https://github.c
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Abdullah Shahid](https://www.merriam-webster.com/thesaurus/dummy)
+* Abdullah Shahid
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
